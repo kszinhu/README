@@ -1,4 +1,4 @@
-# <🖥> 'SUP?
+# <🐱‍💻> 'SUP?
 
 #### 📃 > SOBRE:
 <p align="center">
