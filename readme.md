@@ -26,4 +26,4 @@ Estuda Ciências da Computação na Universidade Estadual Paulista Júlio de Mes
 #### 📚 FORMAÇÃO PROFISSIONAL
 - RAÍZEN S.A.
   - Jovem Aprendiz (CIEE) - Auxiliar Administrativo
-  - Unidade BARRA BONITA [2018-2020]
+  - Unidade BARRA BONITA [2018 - 2020]
