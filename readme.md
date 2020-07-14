@@ -1,15 +1,21 @@
 # <🐱‍💻> 'SUP?
 
 #### 📃 > SOBRE:
+<h1 align="center">
+    <img alt="Eu Sentado em uma cadeira vermelha com detalhes pretos em couro sintetico, fazendo um sorriso discreto, imagem em tons amarelos" title="CASSIANO PERFIL" src="https://i.imgur.com/PovzkLQ.png" width="150px"/>
+</h1>
+
+<h4 align="center"> 
+	 CASSIANO HENRIQUE APARECIDO RODRIGUES
+</h4>
+
 <p align="center">
-<a>
-  
- <b>
+
+<b>
    🎬 VFX Creator 
-  -
+  ||
    ☄️ Astronomical Enthusiast
  </b>
-</a>
 </p>
 
 <p align="center">
