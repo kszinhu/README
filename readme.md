@@ -14,7 +14,7 @@
 
 <h4>
 	<samp>
-	📃- ABOUT ME
+	📃 - ABOUT ME
 	</samp>
 </h4>
 <p>
