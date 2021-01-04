@@ -1,5 +1,5 @@
 
-# 🐱‍💻 <samp><a href="https://www.linkedin.com/in/giovannamoeller/">Cassiano Henrique Aparecido Rodrigues</a></samp>
+# 🐱‍💻 <samp><a href="https://www.linkedin.com/in/cassiano-rodrigues-28bb8b16a/">Cassiano Henrique Aparecido Rodrigues</a></samp>
 
 >_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/kszinhu/kszinhu/blob/master/sources/Hi.gif"><br>
 I'm Cassiano and I study computer science, and I'm a graphic design enthusiast :)._
