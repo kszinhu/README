@@ -5,13 +5,16 @@
 I'm Cassiano and I study computer science, i work as a development Alboom._
 
 ### <samp>📃 | ABOUT ME</samp>
-<p>
-	☄️ - Astronomical Enthusiast.<br>
-	🎬 - VFX Creator.<br> 
-	❤️ - Lover of anime and music.<br>
-	💻 - Playing and editing are my hobbies.<br>
-	📷 - Passionate about landscapes and moments.<br>
-</p>
+
+```javascript
+const cassiano = {
+  nickname: "kszinhu" | "kszin",
+  code: [Javascript, HTML, CSS, Python, Java],
+	tools: [Git, Bootstrap, Tailwindcss, Figma, Docker],
+	hobbies: [Astronomy, VFX, Anime, Games, Landscapes],
+	target: "Be a FullStack Developer"
+}
+```
 
 ### <samp>📈 | MY GITHUB STATS</samp>
 <div align="center">
@@ -42,7 +45,7 @@ I'm Cassiano and I study computer science, i work as a development Alboom._
 ## Education
 
 - 📖 **Computer Science**\
-📆 2020 - Moment\
+📆 2020 - Currently\
 📍 **UNESP - Universidade Universidade Estadual Paulista** - Bauru, Brazil
 
 ## Experience
