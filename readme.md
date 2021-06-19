@@ -2,7 +2,7 @@
 # 🐱‍💻 <samp><a href="https://www.linkedin.com/in/kszinhu">Cassiano Henrique Aparecido Rodrigues</a></samp>
 
 >_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/kszinhu/kszinhu/blob/master/sources/Hi.gif"><br>
-I'm Cassiano and I study computer science, and I'm a graphic design enthusiast :)._
+I'm Cassiano and I study computer science, i work as a development Alboom._
 
 ### <samp>📃 | ABOUT ME</samp>
 <p>
@@ -11,8 +11,14 @@ I'm Cassiano and I study computer science, and I'm a graphic design enthusiast :
 	❤️ - Lover of anime and music.<br>
 	💻 - Playing and editing are my hobbies.<br>
 	📷 - Passionate about landscapes and moments.<br>
-	🌱 - Currently learning <strong>TypeScript</strong>, <strong>JavaScript</strong>, <strong>CSS3</strong> and improving my <strong>English</strong>.<br>
 </p>
+
+### <samp>📈 | MY GITHUB STATS</samp>
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=kszinhu&show_icons=true&theme=dark"/>
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszinhu&layout=compact&theme=dark"/>
+</div>
 
 <h5 align="center"><samp>- SOCIAL NETWORKS -</samp></h5>
 <p align="center">
@@ -42,15 +48,33 @@ I'm Cassiano and I study computer science, and I'm a graphic design enthusiast :
 ## Experience
 
 
-- 👨‍💻 **Administrative Assistant**\
+- 👨‍💼 **Administrative Assistant**\
 📆 2018 - 2020\
 📍 **RAÍZEN S.A** - Barra Bonita/SP, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
+---
+
+- 👨‍💻 **Development intern**\
+📆 2021 - Currently\
+📍 **Alboom** - Jau/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/AngularJS-E23237?&logo=angularjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?&logo=ruby&logoColor=white" />
+
+	
+
+--- 
 
 <!--## Skills
 
