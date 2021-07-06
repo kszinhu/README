@@ -17,10 +17,11 @@ const cassiano = {
 ```
 
 ### <samp>📈 | MY GITHUB STATS</samp>
-<div align="center">
-	<a href="https://github.com/kszinhu"><img href="https://github.com/kszinhu" src="https://github-readme-stats.vercel.app/api?username=kszinhu&show_icons=true&theme=dark"/>
-	<br>
-	<a href="https://github.com/kszinhu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszinhu&layout=compact&theme=dark"/>
+<div>
+	<a href="https://github.com/kszinhu"><img href="https://github.com/kszinhu">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kszinhu&show_icons=true&theme=dark&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszinhu&layout=compact&theme=dark"/>
+	</a>
 </div>
 
 <h5 align="center"><samp>- SOCIAL NETWORKS -</samp></h5>
