@@ -9,7 +9,7 @@ I'm Cassiano and I study computer science, i work as a development Alboom._
 ```javascript
 const cassiano = {
   nickname: "kszinhu" | "kszin",
-  code: [Javascript, HTML, CSS, Python, Java],
+  code: [Javascript, Python, Java, Ruby],
 	tools: [Git, Bootstrap, Tailwindcss, Figma, Docker],
 	hobbies: [Astronomy, VFX, Anime, Games, Landscapes],
 	target: "Be a FullStack Developer"
