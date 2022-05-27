@@ -2,7 +2,7 @@
 # 🐱‍💻 <samp><a href="https://www.linkedin.com/in/kszinhu">Cassiano Henrique Aparecido Rodrigues</a></samp>
 
 >_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/kszinhu/kszinhu/blob/master/sources/Hi.gif"><br>
-I'm Cassiano and I study computer science, i work as a development Alboom._
+I'm Cassiano and I study computer science._
 
 ### <samp>📃 | ABOUT ME</samp>
 
@@ -63,7 +63,7 @@ const cassiano = {
 ---
 
 - 👨‍💻 **Development intern**\
-📆 2021 - Currently\
+📆 2021 - 2022\
 📍 **Alboom** - Jau/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
