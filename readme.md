@@ -1,7 +1,7 @@
 
 # 🐱‍💻 <samp><a href="https://www.linkedin.com/in/kszinhu">Cassiano Henrique Aparecido Rodrigues</a></samp>
 
->_Hi there! Welcome to my GitHub profile!<img width="20px" src="https://github.com/kszinhu/kszinhu/blob/master/sources/Hi.gif"><br>
+>_Hi there! Welcome to my GitHub profile! <img height="20px" src="https://github.com/kszinhu/kszinhu/blob/master/sources/Hi.gif"><br>
 I'm Cassiano and I study computer science._
 
 ### <samp>📃 | ABOUT ME</samp>
