@@ -51,15 +51,18 @@ const cassiano = {
 ## Experience
 
 
-- 👨‍💼 **Administrative Assistant**\
-📆 2018 - 2020\
-📍 **RAÍZEN S.A** - Barra Bonita/SP, Brazil
+- 👨‍💻 **Frontend Developer**\
+📆 2022 - Currently\
+📍 **Blox** - São Paulo/SP, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-
+<img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/testing%20library-323330?logo=testing-library&logoColor=red" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
+	
 ---
 
 - 👨‍💻 **Development intern**\
@@ -74,11 +77,20 @@ const cassiano = {
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 <img align="right" src="https://img.shields.io/badge/Ruby-CC342D?&logo=ruby&logoColor=white" />
-
 	
+---
+	
+- 👨‍💼 **Administrative Assistant**\
+📆 2018 - 2020\
+📍 **RAÍZEN S.A** - Barra Bonita/SP, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 
 --- 
-
+	
 <!--## Skills
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
