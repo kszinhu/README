@@ -19,7 +19,7 @@ const cassiano = {
 ### <samp>📈 | MY GITHUB STATS</samp>
 <div align="center">
 	<img height="160px" src="https://github-readme-stats.vercel.app/api?username=kszinhu&show_icons=true&theme=dark&count_private=true"/>
-	<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszinhu&layout=compact&theme=dark&hide=C"/>
+	<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kszinhu&layout=compact&theme=dark&hide=C,CSS,SCSS,HTML"/>
 	<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=kszinhu&theme=dark"/>
 </div>
 
