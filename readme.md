@@ -9,8 +9,8 @@ I'm Cassiano and I study computer science._
 ```javascript
 const cassiano = {
   nickname: "kszinhu" | "kszin",
-  code: [Typescript, Javascript, Python, Java, Ruby, C++],
-	tools: [Git, Bootstrap, Tailwindcss, Figma, Docker, Postman, Insomnia],
+  code: [Typescript, Javascript, Python, Ruby, Rust(initial), C++],
+	tools: [Git, Bootstrap, Mantine, Tailwindcss, Figma, Docker, Postman, Insomnia],
 	hobbies: [Astronomy, VFX, Anime, Games, Landscapes],
 	target: "Be a good FullStack Developer"
 }
