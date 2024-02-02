@@ -8,10 +8,10 @@ I'm Cassiano and I study computer science._
 
 ```javascript
 const cassiano = {
-  nickname: "kszinhu" | "kszin",
-  code: [Typescript, Javascript, Python, Ruby, Rust(initial), C++],
-	tools: [Git, Bootstrap, Mantine, Tailwindcss, Figma, Docker, Postman, Insomnia],
-	hobbies: [Astronomy, VFX, Anime, Games, Landscapes],
+	nickname: "kszinhu" | "kszin",
+	code: [Typescript, Javascript, Python, Ruby, Rust, C++],
+	tools: [Git, Figma, Docker, "Relational and NoSQL databases"],
+	hobbies: [Astronomy, VFX, Anime, Games, Landscapes, OpenSource],
 	target: "Be a good FullStack Developer"
 }
 ```
@@ -45,7 +45,7 @@ const cassiano = {
 ## Education
 
 - 📖 **Computer Science**\
-📆 2020 - Currently\
+📆 2020 - 2024\
 📍 **UNESP - Universidade Universidade Estadual Paulista** - Bauru, Brazil
 
 ## Experience
