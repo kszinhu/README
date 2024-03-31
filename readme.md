@@ -50,9 +50,23 @@ const cassiano = {
 
 ## Experience
 
+- 👨‍💻 **Fullstack Developer**\
+📆 2024 - Currently\
+📍 **Blox** - São Paulo/SP, Brazil
 
-- 👨‍💻 **Frontend Developer**\
-📆 2022 - Currently\
+<img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
+<img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?&logo=ruby&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/testing%20library-323330?logo=testing-library&logoColor=red" />
+<img align="right" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white" />
+
+---
+
+- 👨‍💻 **Frontend Developer Intern**\
+📆 2022 - 2024\
 📍 **Blox** - São Paulo/SP, Brazil
 
 <img align="right" src="https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB" />
@@ -65,7 +79,7 @@ const cassiano = {
 	
 ---
 
-- 👨‍💻 **Development intern**\
+- 👨‍💻 **Development Intern**\
 📆 2021 - 2022\
 📍 **Alboom** - Jau/SP, Brazil
 
